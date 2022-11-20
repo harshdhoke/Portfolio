@@ -1,4 +1,4 @@
-                                 Have look of the project 
+                                 Have a look of the project 
                  Go through the link below and checkout this awesome portfolio 
                           https://harshdhoke-portfolio.netlify.app/
                                         Thank You !
