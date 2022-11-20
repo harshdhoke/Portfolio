@@ -1,6 +1,6 @@
                                                                     Have look of the project 
                                                      Click the Link below to get redirected to the folder
-                                                            https://harshdhoke-portfolio.netlify.app/
+                                                                    [Harsh Dhoke Portfolio](https://harshdhoke-portfolio.netlify.app/)
 
 # Getting Started with Create React App
 
