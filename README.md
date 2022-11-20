@@ -1,5 +1,7 @@
                                                                     Have look of the project 
-                                                     Click [Create React App](https://github.com/facebook/create-react-app). to get redirected to the folder
+                                                  Go through the link below and checkout this awesome portfolio 
+                                                            https://harshdhoke-portfolio.netlify.app/
+                                                                          Thank You !
                                                                
 
 # Getting Started with Create React App
