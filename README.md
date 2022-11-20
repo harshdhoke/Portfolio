@@ -1,7 +1,7 @@
-                                                                    Have look of the project 
-                                                  Go through the link below and checkout this awesome portfolio 
-                                                            https://harshdhoke-portfolio.netlify.app/
-                                                                          Thank You !
+                                 Have look of the project 
+                 Go through the link below and checkout this awesome portfolio 
+                          https://harshdhoke-portfolio.netlify.app/
+                                        Thank You !
                                                                
 
 # Getting Started with Create React App
