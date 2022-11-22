@@ -39,13 +39,6 @@ export default function NavBar() {
         </nav>
         <div className="inline-flex py-3 px-3 my-6">
           <SocialIcon
-            url="https://twitter.com/Harsh__Dhoke"
-            className="mr-4"
-            target="_blank"
-            fgColor="#fff"
-            style={{ height: 35, width: 35 }}
-          />
-          <SocialIcon
             url="https://www.linkedin.com/in/harsh-dhoke-23a6a81a8/"
             className="mr-4"
             target="_blank"
@@ -53,7 +46,28 @@ export default function NavBar() {
             style={{ height: 35, width: 35 }}
           />
           <SocialIcon
+            url="https://twitter.com/Harsh__Dhoke"
+            className="mr-4"
+            target="_blank"
+            fgColor="#fff"
+            style={{ height: 35, width: 35 }}
+          />
+          <SocialIcon
             url="https://github.com/harshdhoke"
+            className="mr-4"
+            target="_blank"
+            fgColor="#fff"
+            style={{ height: 35, width: 35 }}
+          />
+          <SocialIcon
+            url="https://www.instagram.com/the_harsh_dhoke/"
+            className="mr-4"
+            target="_blank"
+            fgColor="#fff"
+            style={{ height: 35, width: 35 }}
+          />
+          <SocialIcon
+            url="https://www.facebook.com/harsh.dhoke.79"
             className="mr-4"
             target="_blank"
             fgColor="#fff"

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import sanityClient from "../client.js";
 import imageUrlBuilder from "@sanity/image-url";
-import plumeria from "../plumeria.jpg";
+import plumeria from "../plumeria.png";
 
 const builder = imageUrlBuilder(sanityClient);
 function urlFor(source) {
